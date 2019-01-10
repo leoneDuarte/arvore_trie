@@ -1,3 +1,4 @@
+//leone duarte de oliveira
 #include "trie.h"
 main(){
 	T_no filho, raiz;
